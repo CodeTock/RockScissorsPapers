@@ -1,6 +1,6 @@
 import random
 from urllib.parse import _ParseResultBase
-while 1==1:
+while 1==1: #you can write true ofcourse :D
     choices=["rock","scissors","paper"]
     computer=random.choice(choices)
     player= None
